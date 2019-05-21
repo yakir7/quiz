@@ -1,1 +1,1 @@
-﻿This is a reactJS quix
+﻿This is a reactJS quiz
